@@ -1,9 +1,7 @@
 # Picturesque
 
-A beginner Vaadin application with Spring Boot. Visit the website at https://pictur3sque.herokuapp.com/
-
-## About the application 
-Picturesque is a simple palette-generating webapp that can pick key colors from online images. 
+Picturesque is a simple webapp that can build a color palette by identifying key colors in any image
+A beginner passion project made with Vaadin! Visit the website at https://pictur3sque.herokuapp.com/
 
 ## Running the application
 
